@@ -1,1 +1,1 @@
-# logica
+# Aulas de lógica de programação - SENAI
