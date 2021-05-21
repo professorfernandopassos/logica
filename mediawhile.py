@@ -9,7 +9,7 @@ contador = 0
 # Serve para guardar as somas das notas fornecidas
 acumulador = 0
 
-while(contador < quantidadeDeNotas):
+while contador < quantidadeDeNotas:
     nota = input("Insira a nota " + str(contador+1) + ": ")
     nota = int(nota)
     acumulador = acumulador + nota
