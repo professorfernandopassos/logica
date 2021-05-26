@@ -37,4 +37,3 @@ bidi = [
 ]
 
 print(bidi)
-
