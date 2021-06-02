@@ -39,8 +39,8 @@ usuario["dataDeRegistro"] = "10/10/2010"
 
 for chave in usuario:
     # print(chave)
-    # print(f"Chave: {chave} - Valor: {usuario[chave]}")
-    pass
+    print(f"Chave: {chave} - Valor: {usuario[chave]}")
+    # pass
 
 
 leitor = {
